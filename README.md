@@ -1,1 +1,2 @@
-# Infinite-Runner
+# InfiniteRunner
+c37 and c38 projects
